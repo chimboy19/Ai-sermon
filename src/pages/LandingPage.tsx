@@ -69,7 +69,8 @@ const LandingPage =({ onGetStarted }: LandingPageProps) =>{
                 <ChevronRight className="ml-2 w-5 h-5" />
               </button>
               <button className="w-full sm:w-auto px-8 py-4 text-stone-600 hover:text-olive-600 transition-colors font-medium">
-                How It Works
+              <a href="https://www.loom.com/share/b45b91be10dd48d987c2d8f42386a1de" target="_blank" rel="noopener noreferrer">How it Works</a>
+                
               </button>
             </div>
           </motion.div>
